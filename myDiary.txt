@@ -1,0 +1,6 @@
+Thu Jul 02 09:47:03 2020
+
+Hey, This is Saravanan Again,
+Day 3 of 100 Days of code
+this the code for diary using c++
+
